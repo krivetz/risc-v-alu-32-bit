@@ -11,3 +11,6 @@ A 32 bit RISC-V ALU design
 32 bit RISC-V ALU
 
 
+
+
+![alu](32_bit_alu.png)
